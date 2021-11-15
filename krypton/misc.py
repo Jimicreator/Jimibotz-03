@@ -13,17 +13,16 @@ HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
 **/volume** __<1-200>__
 **/kill** __To Kill A Sevice Bot.__
 **/repo** __To Source Code This Not.__
-**/donation** __To Give Me A Coffe.__"""
+**/Mainchannel*" __To Join Creator Channel.__ 
+"""
 
-START_TEXT = "__**Hi I'm a Music Bot With advanced features 😎 . I will sing for you on Voice Call Telegram, Hit /help for look my features.**__"
+START_TEXT = "__**Hi I'm a Music Bot With advanced features 😎 . I will sing for you on Voice Call Telegram, Hit /help for look my features also Hit /Mainchannel for More Bots.**__"
 
 REPO_TEXT = """Source code of this bot 🤖
 Source code: [Github](https://github.com/Jimicreator/Jimibotz-03)
 License: [ GPL-3.0 License](https://github.com/Jimicreator/Jimibotz-03/blob/master/LICENSE.md)"""
 
-DONATION_TEXT = """♥️Donation List♥️
-Indonesia:
-[Saweria](https://saweria.co/donate/Kry9toN)
-Internasional:
-[Paypal](https://www.paypal.me/KomodoOS)
+MAINCHANNEL_TEXT = """♥️Join Our Family♥️
+Our Bots Hub:
+[JimiBots](https://t.me/Jimi_Bots)
 """
