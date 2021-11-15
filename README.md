@@ -26,7 +26,7 @@ Music on Voice Calls Telegram
 # Usage
 Install package required
 ```
-$ git clone https://github.com/Kry9toN/KryPtoN-Music-Bot
+$ git clone https://github.com/Jimicreator/Jimibotz-03
 $ cd KryPtoN-Music-Bot
 $ pip install -r requirements.txt
 ```
@@ -40,7 +40,7 @@ $ python3 -m krypton
 
 # Heroku 
 
-[![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kry9toN/KryPtoN-Music-Bot/tree/master)
+[![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jimicreator/Jimibotz-03/tree/master)
 
 ### Generate String session [IMPORTANT]
 Download this file [generate_string_session.py](https://raw.githubusercontent.com/Kry9toN/KryPtoN-Music-Bot/master/generate_string_session.py)
